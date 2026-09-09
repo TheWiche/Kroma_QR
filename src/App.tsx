@@ -318,7 +318,7 @@ export function App() {
           {/* ======================================================== */}
           {/* RIGHT PANEL: STICKY QR VIEWPORT & EXPORT ACTIONS         */}
           {/* ======================================================== */}
-          <div className="lg:col-span-5 lg:sticky lg:top-8 self-start">
+          <div className="lg:col-span-5 lg:sticky lg:top-24 self-start">
             <QRPreview
               qrCode={qrCode}
               state={state}
