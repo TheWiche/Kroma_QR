@@ -39,7 +39,7 @@ export const UrlForm: React.FC<UrlFormProps> = ({ data, onChange }) => {
         </span>
         <div className="flex flex-wrap gap-2">
           {[
-            'https://kroma-qr.studio',
+            'https://kroma-qr-studio.vercel.app/',
             'https://instagram.com/kroma_design',
             'https://maps.app.goo.gl/kroma-hq',
           ].map((sample) => (

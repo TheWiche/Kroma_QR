@@ -6,7 +6,7 @@ export const DEFAULT_QR_STATE: KromaQRStudioState = {
   content: {
     type: 'url',
     url: {
-      url: 'https://kroma-qr.studio',
+      url: 'https://kroma-qr-studio.vercel.app/',
     },
     wifi: {
       ssid: 'Kroma_Studio_5G',
@@ -26,7 +26,7 @@ export const DEFAULT_QR_STATE: KromaQRStudioState = {
       jobTitle: 'Directora Creativa',
       phone: '+57 300 123 4567',
       email: 'elena@kromastudio.design',
-      website: 'https://kroma-qr.studio',
+      website: 'https://kroma-qr-studio.vercel.app/',
       address: 'Carrera 7 # 112 - 45, Bogotá',
     },
   },

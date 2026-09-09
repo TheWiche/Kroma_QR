@@ -60,9 +60,9 @@ wifi-coworking,WIFI:S:Kroma_Hub_5G;T:WPA;P:HubPass#2026;;,Wi-Fi Coworking`,
     title: 'Tarjetas Empleados',
     description: 'vCards v3.0 con datos de contacto',
     data: `nombre,url,etiqueta
-elena-rios,https://kroma-qr.studio/c/elena,Elena Ríos - Directora Creativa
-carlos-mora,https://kroma-qr.studio/c/carlos,Carlos Mora - Diseñador Senior
-ana-valdez,https://kroma-qr.studio/c/ana,Ana Valdez - Desarrolladora`,
+elena-rios,https://kroma-qr-studio.vercel.app//c/elena,Elena Ríos - Directora Creativa
+carlos-mora,https://kroma-qr-studio.vercel.app//c/carlos,Carlos Mora - Diseñador Senior
+ana-valdez,https://kroma-qr-studio.vercel.app//c/ana,Ana Valdez - Desarrolladora`,
   },
 ];
 
